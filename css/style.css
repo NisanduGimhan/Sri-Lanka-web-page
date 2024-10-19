@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+
+/* Element selector*/
+h1 {
+    background-color: black;
+    text-align: center;
+    color: wheat;
+    border-color: chartreuse;
+    border-
+}
+
+/* class selector----group ekak apply krnna use krnw*/
+.h1{
+    background-color: aqua;
+    color: black;
+    }
+
+/* ID selector*/
+#h1 {
+    text-align: center;
+    background-color: plum;
+    border: 5px solid red;
+    border-radius: 20px;
+  
+} 
+
+.box{
+ height: 20px;
+ 
+ width: 20px;
+ border: 2px solid blue;
+ padding: 30px;
+ background-color: green;
+ position: absolute;
+ 
+bottom: 0;
+
+
+}
+
+.cir{
+    height: 20px;
+ 
+    width: 20px;
+    border: 2px solid blue;
+    padding: 30px;
+    background-color: yellow;
+    position: fixed;
+    top: 80%;
+    left: 90%;
+    border-radius: 50%;
+    z-index: -1;
+
+
+}
+
+
+.sticky{
+
+    height: 20px;
+ 
+    width: 20px;
+    border: 2px solid blue;
+    padding: 30px;
+    background-color: rgb(255, 0, 0);
+    position: sticky;
+    top: 20%;
+    bottom: 20%;
+    left: 90%;
+    border-radius: 80%;
+    z-index: -1;
+
+
+
+}
+
+#h1{
+ 
+    font-family:  'Sixtyfour Convergence';
+
+
+}
